@@ -1,0 +1,13 @@
+//
+//  Localizable.m
+//  NYDemo
+//
+//  Created by apple on 7/17/18.
+//  Copyright © 2018 Gaurav. All rights reserved.
+//
+//import <Foundation/Foundation.h>
+
+"ArticleDetail.NavigationItem.Title" = "Article Detail";
+"ArticleDetail.CopyrightLabel.Text" = "2017 The New York Times Company";
+"ArticleDetail.LinkToArticle.Text" = "Link to Full Article";
+"AuthorPrefix.By" = "By: ";
